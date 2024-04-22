@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214759046167",
+    "project_id": "e-learning-app-9863b",
+    "storage_bucket": "e-learning-app-9863b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214759046167:android:c8445d13b68df0ac0af052",
+        "android_client_info": {
+          "package_name": "com.example.elearning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNTRqn6WZuGZ7-pJ1C3gNr7cLQ5Xux9o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
